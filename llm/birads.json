@@ -1,0 +1,106 @@
+[
+    {
+        "id": "A",
+        "topic_input": "BIRADS linke Brust",
+        "condition": "",
+        "prompt": "INSTRUCTION: Carefully analyze the provided German mammography report. What is the BIRADS score of the left breast? Possible answers are '0', '1', '2', '3', '4', '4A', '4B', '4C', '5', '6', 'not mentioned/unclear'. QUESTION: In the following mammography report what is the BIRADS score for the left breast: [TEXT]? ANSWER: The correct answer for the BIRADS score of the left breast is ‘",
+        "categories": [
+            {
+                "id": "a",
+                "value": "0"
+            },
+            {
+                "id": "b",
+                "value": "1"
+            },
+            {
+                "id": "c",
+                "value": "2"
+            },
+            {
+                "id": "d",
+                "value": "3"
+            },
+            {
+                "id": "e",
+                "value": "4"
+            },
+            {
+                "id": "f",
+                "value": "4A"
+            },
+            {
+                "id": "g",
+                "value": "4B"
+            },
+            {
+                "id": "h",
+                "value": "4C"
+            },
+            {
+                "id": "i",
+                "value": "5"
+            },
+            {
+                "id": "j",
+                "value": "6"
+            },
+            {
+                "id": "k",
+                "value": "unclear"
+            }
+        ]
+    },
+    {
+        "id": "B",
+        "topic_input": "BIRADS rechte Brust",
+        "condition": "",
+        "prompt": "INSTRUCTION: Carefully analyze the provided German mammography report. What is the BIRADS score of the right breast? Possible answers are '0', '1', '2', '3', '4', '4A', '4B', '4C', '5', '6', 'not mentioned/unclear'. QUESTION: In the following mammography report what is the BIRADS score for the right breast: [TEXT]? ANSWER: The correct answer for the BIRADS score of the right breast is ‘",
+        "categories": [
+            {
+                "id": "a",
+                "value": "0"
+            },
+            {
+                "id": "b",
+                "value": "1"
+            },
+            {
+                "id": "c",
+                "value": "2"
+            },
+            {
+                "id": "d",
+                "value": "3"
+            },
+            {
+                "id": "e",
+                "value": "4"
+            },
+            {
+                "id": "f",
+                "value": "4A"
+            },
+            {
+                "id": "g",
+                "value": "4B"
+            },
+            {
+                "id": "h",
+                "value": "4C"
+            },
+            {
+                "id": "i",
+                "value": "5"
+            },
+            {
+                "id": "j",
+                "value": "6"
+            },
+            {
+                "id": "k",
+                "value": "unclear"
+            }
+        ]
+    }
+]
